@@ -16,13 +16,7 @@
 - 🔭 I'm looking for a job.
 <hr>
 
-```
-guard stranger == employer else { 
-  stranger.contact(self, action: .hangOut)
-  return
-  }
-  stranger.contact(self, action: .hiring)
-```
+
 <hr>
 
 
