@@ -1,34 +1,10 @@
-### Hi stranger 👋
-<a href="https://www.instagram.com/alidemirtas7/">
-  <img align="left" alt="Ali's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/87/87390.png" />
-</a>
+Hi 👋 I'm Ali. <br>
+============================= <br> 
+* 🌍  I'm based in Antalya 
+* ✉️  You can contact me at [alidemirtas7@gmail.com](mailto:alidemirtas7@gmail.com)
+* 🧠  I'm learning Swift and JavaScript
 
-[<img align="left" alt="Ali's mail" width="25px" src="https://www.freepnglogos.com/uploads/email-logo-png-27.png"/>](mailto:alidemirtas7@gmail.com)
+### Skills  
 
-<a href="https://twitter.com/alidemirtas3">
-  <img align="left" alt="Ali Demirtas | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/black/twitter-xxl.png" /></a>
-<br/>
-<hr>
-
-
-- 🙋🏻‍♂️ Hi I'm Ali.
-- 📚 Currently learning on swift programming language.
-- 🔭 I'm looking for a job.
-<hr>
-
-
-
-<!--
-**admrts/admrts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---!>
+<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p> 
+ Socials  <p align="left"> <a href="http://www.instagram.com/alidemirtas7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/admrts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/alidemirtas3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
