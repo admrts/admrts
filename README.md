@@ -2,7 +2,7 @@ Hi 👋 I'm Ali. <br>
 ============================= <br> 
 * 🌍  I'm based in Antalya 
 * ✉️  You can contact me at [alidemirtas7@gmail.com](mailto:alidemirtas7@gmail.com)
-* 🧠  I'm learning Swift and JavaScript
+* 🧑🏻‍💻  I’m really into Web and mobile technologies.
 
 ### Skills  
 
