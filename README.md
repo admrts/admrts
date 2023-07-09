@@ -1,4 +1,4 @@
-Hi 👋 My name is Ali
+Hi 👋 I'm Ali
 ====================
 
 * 🌍  I'm based in Antalya
