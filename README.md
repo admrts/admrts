@@ -2,7 +2,7 @@ Hi 👋 I'm Ali
 ====================
 
 * 🌍  I'm based in Antalya
-* ✉️   You can contact me at [alidemirtas7@gmail.com](mailto:alidemirtas7@gmail.com)*
+* ✉️   You can contact me at [alidemirtas7@gmail.com](mailto:alidemirtas7@gmail.com)
 * 💻  React & React Native Dev.
 
 
